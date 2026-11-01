@@ -1,4 +1,3 @@
-
 ---
 name: Reporte de error
 about: Informar un problema de funcionamiento
